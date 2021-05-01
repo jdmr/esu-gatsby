@@ -1,9 +1,12 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "esu",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Escuela Sabática Universitaria",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": {
+    "name": "J. David Mendoza",
+    "email": "jdmendozar@gmail.com"
+  },
   "dependencies": {
     "gatsby": "^3.3.1",
     "gatsby-plugin-gatsby-cloud": "^2.2.0",
@@ -20,12 +23,24 @@
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
-    "prettier": "2.2.1"
+    "@tailwindcss/forms": "^0.3.2",
+    "@tailwindcss/typography": "^0.4.0",
+    "autoprefixer": "^10.2.5",
+    "eslint": "^7.25.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.23.2",
+    "gatsby-plugin-postcss": "^4.4.0",
+    "postcss": "^8.2.13",
+    "prettier": "^2.2.1",
+    "stylelint": "^13.13.0",
+    "stylelint-config-standard": "^22.0.0",
+    "tailwindcss": "^2.1.2"
   },
   "keywords": [
     "gatsby"
   ],
-  "license": "0BSD",
+  "license": "MIT",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
