@@ -1,0 +1,18 @@
+---
+slug: /profundiza/2013/t4/l04/tema1
+date: 2013-10-19
+tipo: dialoga
+author: Jose Mercedes Espinosa
+title: "¿Púlpitos o Pizarrones?"
+description: "Si Jesús dedicó más tiempo a la enseñanza que a la predicación, ¿no debiera la  iglesia hacer lo mismo? Ciertamente Jesús, nuestro maestro y modelo, dedicó más  tiempo a la enseñanza y preparación de sus discípulos que a la predicación del  evangelio, y aún al predicar el evan..."
+---
+
+Si Jesús dedicó más tiempo a la enseñanza que a la predicación, ¿no debiera la iglesia hacer lo mismo? Ciertamente Jesús, nuestro maestro y modelo, dedicó más tiempo a la enseñanza y preparación de sus discípulos que a la predicación del evangelio, y aún al predicar el evangelio no lo hizo tanto por medio de sermones sino por medio de la enseñanza haciendo preguntas e interactuando con sus oyentes. La enseñanza puede estar dirigida a dos grupos de personas: los que ya conocen la verdad del evangelio y los que aún no la conocen. Para ambos grupos, la mejor forma de equiparlos o adiestrarlos es la enseñanza.
+
+La lección de esta semana enfatiza el equipamiento de los miembros de la iglesia para la obra del ministerio. Siendo que cada creyente es un "ministro"  debiera ser adiestrado para cumplir su ministerio de compartir el evangelio a otros. Notemos la siguiente declaración de Elena G. de White: "Tan pronto como se organice una iglesia, ponga el ministro a los miembros a trabajar.  Necesitarán que se les enseñe cómo trabajar con éxito.  Dedique el ministro más de su tiempo a educar que a predicar.  Enseñe a la gente a dar a otros el conocimiento que recibieron. (JT, 3: 82 y 83). Esto cambia nuestra percepción de la iglesia en dos sentidos: el papel de los miembros no es de ir al templo a escuchar más sermones, sino  salir a compartir el evangelio con otros; y el papel del los dirigentes no es sermonear a los miembros de iglesia sino enseñarles a trabajar por otros.
+
+Es necesario reenfocar la obra de la iglesia a fin de cumplir la comisión evangélica. "Los hermanos han oído demasiados sermones; pero, ¿se les ha enseñado a trabajar para aquellos por quienes Cristo murió? ¿Se les ha propuesto y presentado algún ramo de trabajo de tal manera que cada uno haya visto la necesidad de tomar parte en la obra? (JT, 3:64).
+
+La iglesia del primer siglo tuvo el enfoque correcto: Se les predicaba a los no evangelizados y a los ya evangelizados se les adiestraba para que predicaran a otros. Al principio de la Edad Media este modelo se trastornó y a quienes se les predicaba era a los ya evangelizados, por lo tanto la predicación se convirtió en sermoneo. La lección de esta semana nos invita retomar el modelo de la iglesia primitiva y a convertir la iglesia en un centro de adiestramiento misionero a fin de que todos los miembros sean adiestrados para la evangelización. Por lo tanto como dice Elena G. de White "Cada iglesia debe ser escuela práctica de obreros cristianos. Sus miembros deberían aprender a dar estudios bíblicos, a dirigir y enseñar clases en las escuelas sabáticas, a auxiliar al pobre y cuidar al enfermo, y trabajar en pro de los inconversos" (MC, 107).
+
+Una escuela práctica implica no solo enseñanza teórica dentro del templo, sino también salir y esparcirnos en la comunidad para ejercitarnos en la predicación mientras visitamos las familias y compartimos el mensaje de salvación. Los miembros más nuevos al principio observan a los más experimentados, luego comienzan a compartir y mientras son supervisados por los experimentados, y luego solos comparten y enseñan a otros, ese es el verdadero discipulado al que somos llamados. Esto requiere menos púlpitos y más pizarrones y campo de trabajo.

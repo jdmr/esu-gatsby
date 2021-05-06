@@ -1,0 +1,28 @@
+---
+slug: /profundiza/2015/t2/l08/tema1
+date: 2015-05-16
+tipo: dialoga
+author: Jose Mercedes Espinosa
+title: "¿Por qué sí buscó a su hijo mayor?"
+description: "La parábola del hijo pródigo es una de las tres parábolas con las que Jesús  respondió a las murmuraciones de los escribas y fariseos, quienes decían: “Éste  a los pecadores recibe y con ellos come” (Luc. 15:1)."
+---
+
+La parábola del hijo pródigo es una de las tres parábolas con las que Jesús respondió a las murmuraciones de los escribas y fariseos, quienes decían: "Éste a los pecadores recibe y con ellos come" (Luc. 15:1).
+
+Realmente en las parábolas anteriores, la de la oveja perdida y la de la moneda perdida, lo perdido fue buscado hasta encontrarse. El hombre que perdió la oveja, la fue a buscar y la mujer que perdió la moneda, la buscó con diligencia hasta encontrarla. ¿Por qué el hijo perdido no fue buscado, al igual que la oveja y la moneda?
+
+                  Para responder a esta pregunta es necesario recordar que Jesús se está dirigiendo principalmente a los escribas y fariseos, quienes levantaron las murmuraciones contra él por recibir a los pecadores y publicanos y por comer con ellos.
+
+                  Los escribas y fariseos eran los religiosos del tiempo de Cristo. Eran los conocedores de la Ley, eran quienes guardaban el sábado, daban fielmente sus diezmos y sin duda también se abstenían de comer alimentos inmundos. Eran altamente religiosos. Por lo tanto ellos eran los responsables de buscar a los pecadores y publicanos para compartirles el mensaje de salvación, para evangelizarlos, diríamos ahora. Sin embargo, en lugar de ir a buscarlos, los ahuyentaban, o al menos criticaban el hecho de que Jesús los atendiera.
+
+                  Con las tres parábolas citadas, Jesús está ilustrando el amor del Padre por los perdidos. Si notamos, las tres parábolas tienen varias similitudes. En las tres hay algo que se pierde: una oveja, una moneda, un hijo. En las tres, lo perdido es recuperado: la oveja es hallada, la moneda es encontrada y el hijo regresa. En las tres hay una fiesta de regocijo por recuperar lo perdido: fiesta cuando la oveja se encuentra, fiesta cuando la moneda se encuentra y fiesta cuando el hijo regresa. Pero, como notamos, hay una gran diferencia en la última parábola: al hijo nadie lo fue a buscar. Vino solo. Al igual que los pecadores y publicanos venían solos a Jesús, nadie los iba a buscar. Surge, por lo tanto, la pregunta: ¿quién debió haber ido a buscar al hijo perdido? Algunos dicen: ¡el padre! Pues no. Porque en el plan de salvación el Padre permanece en el cielo, y es Jesús, el Hijo, quien viene a buscar a los perdidos.
+
+                  En el marco de la parábola del hijo pródigo, en la cual el padre tenía dos hijos, el hijo menor representa a los publicanos y pecadores y el hijo mayor, a los escribas y fariseos. Éstos últimos, al ser los religiosos, los conocedores de los requerimientos de Dios, los observadores de la ley, llegan a ser los hermanos mayores de los pecadores y publicanos. Ciertamente Jesús está ridiculizando la actitud de los fariseos, quienes, al igual que el hermano mayor de la parábola, en lugar de ir a buscar a su hermano perdido, cuando éste regresa solo, se enoja grandemente y no quiere entrar a la fiesta. La actitud del hermano mayor del hijo pródigo es la misma actitud que están asumiendo los escribas y fariseos.
+
+                  La parábola sigue teniendo aplicaciones importantes en nuestros días. Muchas veces los religiosos de nuestro tiempo, los observadores de la ley, los guardadores del sábado y los fieles diezmadores, en lugar de ir a buscar a los pecadores para atraerlos a Jesús, en el mejor de los casos, esperamos que lleguen solos. Pero cuántas veces también los criticamos por la forma en que vienen a la iglesia y casi hasta preguntamos con asombro, al igual que los escribas y fariseos: ¿y por qué lo dejan entrar así? ¿y van a bautizar a ese pecador? Muchas veces el espíritu farisaico se posesiona de nosotros y considerándonos muy justos expresamos desprecio hacia los "pecadores" que llegan a la iglesia. Recordemos que los fariseos eran como los adventistas de nuestro tiempo, o, peor aún, los adventistas de nuestro tiempo podemos ser como los fariseos del tiempo de Jesús.
+
+                  Somos nosotros, los hermanos mayores, quienes debemos ir a buscar a los pecadores y publicanos de nuestros días. O al menos no criticarlos, si se acercan a Jesús, como hacían los fariseos de tiempos antiguos. Jesús sigue recibiendo a los publicanos y pecadores y con la parábola del hijo pródigo está exhortándonos a no asumir la actitud del hermano mayor, quien se queda cómodamente en la casa del padre mientras su hermano está perdido. Esa actitud no revela amor hacia el padre.
+
+                   Alguien dijo que el hermano mayor realmente no amaba al padre, sólo amaba la herencia del padre. Si realmente el hijo mayor hubiera amado a su padre, no hubiera soportado ver todos los días la tristeza en el rostro de su padre a causa del hijo perdido. Se hubiera ido a buscarlo a fin de calmar el dolor del corazón del padre por su hijo ausente. De la misma manera, los que ya estamos en la casa del Padre, si realmente lo amamos, no hagamos lo mismo que los escribas y fariseos, esperando que los perdidos vengan solos. Vayamos a buscarlos, pues el Padre los ama, y su corazón se duele porque andan perdidos.
+
+                  ¿Por qué el padre no fue a buscar al hijo perdido? ¡Porque quien debía irlo a buscar era el hijo mayor! Y, ¿por qué sí fue a buscar al hermano mayor cuando no quería entrar? Porque Dios ama a todos por igual, y anhela la salvación aún a los que se consideran muy justos.

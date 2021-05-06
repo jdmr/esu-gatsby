@@ -1,0 +1,26 @@
+---
+slug: /profundiza/2011/t2/l01/tema2
+date: 2011-03-26
+tipo: dialoga
+author: Juan José Andrade
+title: "Manto igual"
+description: "Los grandes fabricantes de ropa, en el afán de alcanzar a un mayor número de  personas, lanzaron hace ya algunas décadas atrás lo que causó un gran impacto  en el mundo de la moda. Una talla que pudiera ser usada por personas de  diferente peso, medida y edad."
+---
+
+Los grandes fabricantes de ropa, en el afán de alcanzar a un mayor número de personas, lanzaron hace ya algunas décadas atrás lo que causó un gran impacto en el mundo de la moda. Una talla que pudiera ser usada por personas de diferente peso, medida y edad. La llamaron: "Unitalla". De este modo, los grupos de amigos se sintieron animados a comprar piezas de ropa que eran exactamente iguales. Cada uno de los integrantes de estos grupos en particular se identificó más entre sí y se sintieron animados al grado de pensar que las diferencias entre ellos eran mínimas, pues todos eran de la misma talla.
+
+Este "Boom" en el comercio de la ropa, tenía sin embargo, ciertas desventajas. Al buscar ropa igual, muchos descubrieron que la "Unitalla" no les quedaba bien a todos. A unos les quedaba un poquito más grande y a otros, un poquito más chica. Y por lo tanto, no todos quedaron totalmente satisfechos.
+
+Al hablar del manto de la justicia imputada de Cristo existe el cuestionamiento de cómo la justicia de Cristo puede justificar a todos por igual. Es decir, a algunas personas les parece ilógico que dos personas sean justificadas de la misma manera, cuando sus vidas, actos y pecados sean abismalmente diferentes. Pensemos en un buen chico o chica cristianos que presionados por su novia o novio ceden a la tentación y tienen relaciones sexuales y sufren las consecuencias de su descuido y error. Pero también pensemos en un desalmado secuestrador que descuartizó a tres miembros de una familia al no recibir el pago del rescate. Comparando estos casos algunos dicen: ¿Es posible que si el secuestrador se arrepiente, será justificado igual que el chico o la chica? ¿Es acaso la justicia de Cristo algo así como la "Unitalla", un manto igual para tallas tan diferentes? No suena lógico. Debería haber requerimientos diferentes de parte de Dios para justificar tanto a uno como a otro.
+
+Bueno, efectivamente, el tema de cómo Dios nos justifica no tiene lógica, por lo menos desde la perspectiva humana.  Estamos acostumbrados a dar un trato diferente a las personas de acuerdo a sus faltas.  En nuestro mundo, probablemente el que miente sufrirá menores consecuencias que el que mata; sin embargo, desde el punto de vista bíblico, si somos trasgresores de cualquier falta, necesitamos el perdón y la justicia de Cristo.  Y Cristo la concede al instante al que la necesita y se la pide de todo corazón.  Aún a pesar de que también delante de Dios haya diferencia entre un pecado y otro (Jn. 19:11) y de que el castigo pueda ser diferente para uno y para otro, Dios está dispuesto a cubrir nuestras faltas con el manto de la justicia de Cristo.  Quizá no lo podremos llegar a comprender totalmente; por eso es justificación _por fe_, porque tenemos que aceptarlo o desarrollar la fe para creerlo.  El manto de su justicia cubre a todos por igual.  En ese sentido, podemos decir que es como la "Unitalla" porque es un mismo manto, el manto de la justicia de Cristo, para todos.  No existe otro manto. Este es el único manto que nos puede cubrir.  La Biblia dice: "la justicia de Dios por medio de la fe en Jesucristo, para todos los que creen en él.  Porque _no hay diferencia_…siendo justificados gratuitamente por su gracia, mediante la redención que es en Cristo Jesús" (Ro. 3: 22, 24).  Elena de White comenta:
+
+"Es precioso el pensamiento de que la justicia de Cristo nos es imputada, no por algún mérito de nuestra parte, sino como don gratuito de Dios.  El enemigo de Dios y del hombre no quiere que esta verdad sea presentada claramente; porque sabe que si la gente la recibe plenamente, habrá perdido su poder sobre ella.  Si consigue dominar las mentes de aquellos que se llaman hijos de Dios, de modo que su experiencia esté formada de duda, incredulidad y tinieblas, logrará vencerlos con la tentación" (Elena G. White, _Exaltad a Jesús_, de Mayo 22).
+
+La diferencia con la "Unitalla de la ropa es que el manto de la justicia de Cristo calza perfectamente con todas las personas en todos los lugares y bajo cualquier situación.  Con el manto de la justicia de Cristo nadie queda insatisfecho; bueno, nadie que lo necesite y clame de veras.  La Biblia dice "Justificados pues por la fe tenemos paz para con Dios por medio de nuestro Señor Jesucristo" (Ro. 5:1).
+
+La única condición que Dios tiene para el pecador, independientemente de la gravedad de su falta es que haya un arrepentimiento sincero.  El evangelio de Lucas dice: "…si no os arrepentís, todos pereceréis igualmente." (Lc. 13:3).
+
+Elena G. White lo explica así:
+
+"La justicia de Cristo hace que el pecador penitente sea aceptable ante Dios y obra su justificación.  No importa cuán pecadora haya sido su vida, si cree en Jesús como su Salvador personal, se halla delante de Dios vestido con el manto inmaculado de la justicia imputada de Cristo". (Dios nos cuida, Noviembre 6).

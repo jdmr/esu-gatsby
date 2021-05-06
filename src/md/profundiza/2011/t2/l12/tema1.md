@@ -1,0 +1,28 @@
+---
+slug: /profundiza/2011/t2/l12/tema1
+date: 2011-06-11
+tipo: dialoga
+author: Felix Hadid Cortez
+title: "¿Justifica la ignorancia los pecados que cometemos?"
+description: "Si los soldados romanos hubieran sabido quién era realmente Jesús, no se  habrían atrevido a ponerle una mano encima, mucho menos a ultrajarlo  vistiéndolo como rey o repartiéndose sus vestidos. La Biblia dice que Jesús,  sin embargo, oró con estas palabras: “Padre, perdónalos..."
+---
+
+Si los soldados romanos hubieran sabido quién era realmente Jesús, no se habrían atrevido a ponerle una mano encima, mucho menos a ultrajarlo vistiéndolo como rey o repartiéndose sus vestidos. La Biblia dice que Jesús, sin embargo, oró con estas palabras: "Padre, perdónalos porque no saben lo que hacen" (Lucas 23:34). ¿Indica la oración de Jesús que la ignorancia de sus ejecutores justifica de alguna manera sus acciones?
+
+Me parece que no. Los abusos de los soldados eran impíos aún cuando hubieran sido perpetrados contra otra persona diferente a Jesús. Cristo reconoce, sin embargo, que el acto realizado contra él, el Hijo del Padre, Dios hecho carne, era de una naturaleza infinitamente mayor. Es el pecado en este último sentido que Jesús le pide al Padre que pase por alto. Cristo mismo reconoce que existen diferentes grados de culpabilidad. Por ejemplo, le dice a Pilato que aquellos que lo han entregado (es decir, las autoridades judías) tienen mayor pecado que él porque tienen mayor conocimiento (Juan 19:11). En la misma aseveración, sin embargo, Jesús afirma que Pilato también es culpable aunque en menor grado debido a su ignorancia. De la misma manera, los soldados siguen siendo culpables aunque en menor grado debido a su ignorancia.
+
+Esto nos lleva a un análisis más profundo de la naturaleza de la ignorancia. Los sacerdotes también eran ignorantes de quién era Jesús. Si ellos hubieran sabido que Jesús era el creador del universo, el Jehová del Antiguo Testamento, se hubieran horrorizado de sus propias intenciones y no lo hubieran crucificado. Sin embargo, la ignorancia de los dirigentes judíos era diferente a la ignorancia de los soldados. Los soldados no habían tenido oportunidad de conocer la verdad acerca de Jesús, en cambio, los dirigentes judíos habían tenido todas las oportunidades de saber quién era Jesús. Los soldados eran ignorantes por falta de conocimiento acerca de Jesús pero los dirigentes judíos eran ignorantes porque habían rechazado la verdad acerca de Jesús.
+
+Segunda de Tesalonicenses 2:8–14 dice que en el tiempo del fin sólo habrá dos tipos de personas: los que se salvan y los que se pierden. Luego dice algo que siempre me inquietó y no podía comprender. Dice que los que se pierden son personas que habrán sido engañados por los milagros poderosos de Satanás que Dios mismo "enviará" para que sean engañados. Es decir, los salvos tendrán la verdad y los que se pierden creerán que tienen la verdad pero han sido engañados por milagros mentirosos realizados por un poder que Dios mismo ha "enviado". ¿Cómo podemos entender esto?
+
+En primer lugar debemos entender que en la Biblia todo lo que Dios permite es finalmente atribuido a él. El mismo pasaje afirma que la venida del poder engañador es obra de Satanás (2 Tes. 2:9). Esto quiere decir, entonces, que Dios NO envía el poder engañador sino que Satanás lo hace pero Dios permite que venga.
+
+¿Por qué permite Dios que venga un poder engañador y haga milagros mentirosos y engañe a mucha gente? El mismo texto nos da la respuesta: "Porque no recibieron el amor de la verdad para ser salvos" (2 Tes. 2:10). En otras palabras, Dios permite que sean engañados todos los que rechazaron la verdad no la amaron. Esto es importante. Las personas que son engañadas en el tiempo del fin, lo serán no por falta de conocimiento, sino porque han rechazado la verdad.
+
+Cuando tú y yo conocemos la verdad surge inmediatamente un conflicto en nuestra vida: permitir que la verdad transforme nuestra vida (obedecer), o seguir viviendo como antes (ignorar). Muchos deciden ignorar la verdad pero esto crea una situación muy difícil en su conciencia que no se puede mantener para siempre. Tarde o temprano la persona cambiará su vida para conformarse a la verdad (obediencia) o se convencerá a sí misma que esa verdad no es verdad (autoengaño). Esto quiere decir, entonces, que EL MEJOR ANTIDOTO CONTRA EL ENGAÑO—O EL AUTOENGAÑO—NO ES EL CONOCIMIENTO SINO LA OBEDIENCIA. Por eso Jesús dijo: "Cualquiera, pues, que me oye estas palabras y las hace, le compararé a un hombre prudente que edificó su casa sobre la peña" (Mat 7:24). Cuando vengan los ríos del engaño y las falsas doctrinas, su casa se mantendrá firme. Por otro lado, "Cualquiera, pues, que me oye estas palabras y _no_ las hace, le compararé a un hombre insensato que edificó su casa sobre la arena" (Mat 7:26). Esta persona no podrá resistir el embate de los ríos de los milagros mentirosos.
+
+Pablo previó estas circunstancias cuando dijo que vendría el tiempo cuando las personas no soportarían la doctrina verdadera, en cambio amontonarían maestros que prediquen de acuerdo a sus propias concupiscencias (2 Tim 4:1–2). Como la verdad no será agradable para ellos, entonces amontonarán engañadores que les hablan lo que quieren oír. Una vez más, el engaño del tiempo del fin no es el resultado de la ignorancia, sino del rechazo de la verdad.
+
+El manto de la ignorancia no podrá justificar a una persona delante de Dios.
+
+(Te invito a leer mi segundo artículo donde podrás profundizar un poco más en este tema: "EL MANTO DE LA IGNORANCIA (2): EL PECADO DEL KOUROS O CÓMO FUNCIONA EL AUTOENGAÑO").

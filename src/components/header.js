@@ -5,7 +5,7 @@ const Header = () => {
     const [isOpen, setOpen] = useState(false)
 
     return (
-        <header id="header" className="text-gray-200 bg-dark">
+        <header id="header" className="text-gray-200 bg-primary">
             <nav className="container mx-auto md:flex md:justify-between md:items-center px-4">
                 <div className="py-6 flex justify-between items-center">
                     <div className="text-3xl tracking-widest">

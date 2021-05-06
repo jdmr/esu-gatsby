@@ -1,0 +1,22 @@
+---
+slug: /profundiza/2011/t4/l03/tema1
+date: 2011-10-08
+tipo: dialoga
+author: Daniel Nae
+title: "Una amenaza sutil"
+description: "Si estás invitado a hacer parte de un equipo que tiene la tarea de correr un  análisis DOFA para tu iglesia, la Iglesia Adventista del Séptimo Día, ¿qué  pondrías en la sección Amenazas? ¿Cuáles son los elementos que, según tu  opinión, más ponen en riesgo la unidad de tu amad..."
+---
+
+Si estás invitado a hacer parte de un equipo que tiene la tarea de correr un análisis DOFA para tu iglesia, la Iglesia Adventista del Séptimo Día, ¿qué pondrías en la sección _Amenazas_? ¿Cuáles son los elementos que, según tu opinión, más ponen en riesgo la unidad de tu amada iglesia?
+
+Pondrías probablemente la ordenación de la mujer, modelos conflictivos de adoración, herejías doctrinales… ¿Qué más? El ataque de los movimientos disidentes… ¿Algo más?... ¿Has pensado alguna vez que la rivalidad profesional, o al menos una tensión entre maneras diferentes de ver el cumplimiento de nuestra misión, puede representar una amenaza sutil para la unidad de la iglesia? Entiendo por unidad, no sólo una dulce atmósfera de compañerismo fraternal o una convicción firme de armonía doctrinal, sino un propósito unificador, métodos complementarios para llevar a cabo la misión que nos ha sido encomendada.
+
+Normalmente pensamos que la rivalidad es una envidia local, mezquina y pasajera, como la lucha por el poder entre dos ancianos antes de los nombramientos. Sin embargo, a veces la rivalidad puede llevar niveles profundos que permean nuestra cultura institucional y socavan su poder misional. ¿Qué te parece, por ejemplo, la tensión entre el evangelismo externo y el interno? ¿Te parece que hay un equilibrio entre los periodos de planeamiento, los esfuerzos dedicados y los gastos hechos para ganar almas por Cristo, por un lado, y preservarlas en la fe, por otro lado?
+
+En algunas partes del mundo, la Iglesia escoge al mejor pastor de una asociación y lo nombra evangelista. Es un proceso natural, lógico, que refleja nuestro correcto entendimiento del mandato evangélico (Mateo 28:18, 19). Sin embargo, a veces en la misma reunión, el pastor que no alcanza los blancos es nombrado como el capellán de la escuela del campo. En otras palabras, invertimos lo mejor para ganar, con mucha dificultad, miembros nuevos, que normalmente necesitan pasar por cambios dramáticos y costosos para cambiar su estilo de vida, y designamos con facilidad lo peor para hacer crecer lo que representan lo más valioso para nuestro futuro, nuestros niños. ¡No me malentiendas! Claro, cada alma es preciosa delante de los ojos de Dios y debemos sacrificar todo lo que tenemos para ganarla para Cristo, pero, precisamente por este principio bíblico, ¿no debemos invertir igual en nuestros niños, el futuro de nuestra iglesia?
+
+Recientemente un exitoso hombre de negocios adventista me compartía su preocupación en relación con el futuro de nuestra iglesia. Según su punto de vista, la mejor forma de invertir en el futuro es construir escuelas primarias de calidad. Si podemos darle un comienzo sólido a la educación adventista, los niveles siguientes de preparación vendrán naturalmente, porque tendríamos una presión positiva desde abajo. Evidentemente, para el cumplimiento de esta visión, necesitamos maestros dedicados, bien preparados y… bien pagados. La Biblia no hace ninguna distinción entre el don de predicar y el de enseñar (Efesios 4:11). Son dones esenciales e inseparables. ¿Brindamos nosotros la misma atención, los mismos privilegios a estos dos grupos vitales para la misión de la iglesia?
+
+En la misma dirección, ofrecemos destacados servicios espirituales a los jóvenes que cursan en universidades adventistas y esto refleja el precio alto que tiene la educación adventista a nuestros ojos. Por ejemplo, algunas entidades educativas nuestras tienen una fuerte y bien representada capellanía. Sin embargo, la mayoría de nuestros jóvenes estudian en universidades no adventistas. ¿Cuántos capellanes conoces que atienden las necesidades espirituales y pastorales de estos estudiantes?
+
+Esta reflexión no es una crítica, sino una observación. Aún si fuera una crítica, siguiendo el modelo de Pablo, sería una manera abierta, franca y directa de hablar de una realidad que puede, realmente, poner en peligro el cumplimiento de nuestra misión y el desarrollo armonioso de nuestra iglesia. Porque hay amenazas más sutiles que los ataques de los grupos disidentes.

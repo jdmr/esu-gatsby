@@ -1,0 +1,26 @@
+---
+slug: /profundiza/2013/t3/l11/tema1
+date: 2013-09-07
+tipo: dialoga
+author: Agustín Andrade
+title: "LA BIBLIA, VERDAD QUE CAUTIVA LA MENTE"
+description: "De chico, si había alguien que cautivaba mi atención; de la forma más  impresionante al contar las historias de la Biblia o de lo que fuera, ¡ése era  mi padre!, y decía en mi mente, “como sabe mi papi”, “me gustaría ser como él  cuando sea grande”"
+---
+
+De chico, si había alguien que cautivaba mi atención; de la forma más impresionante al contar las historias de la Biblia o de lo que fuera, ¡ése era mi padre!, y decía en mi mente, _"como sabe mi papi", "me gustaría ser como él cuando sea grande"_, además, si quería respuesta para mis tareas o inquietudes de la vida, sabía que podía contar con su cúmulo de conocimientos y habilidades, por eso a la fecha lo sigo admirando, respetando, y me inspira una confianza total.  Pero, ¿cuál era su secreto?, recuerdo bien, que él era una persona que sabía escuchar  a los demás y sabía meditar en la Biblia, así como en otros libros de historia universal, y lo hacía de forma responsable, ya que nunca lo observé imponiendo su opinión en su conversación con las demás personas.  A la fecha sigue inspirando vidas, es un hombre con un espíritu de oración constante y una destacada dedicación en el estudio de la Biblia. En pocas palabras, mi padre "sabía, entendía y aceptaba esta verdad redentora en su corazón y estaba dispuesto a compartir estas maravillosas historias que cautivaron su mente, y eso lo hizo y lo sigue haciendo una persona diferente y de mucho respeto".
+
+            La lección en esta semana; viene presentándonos el valor que tiene la Biblia, como fuente divina y autorizada para mantener el conocimiento de los hechos de la historia de este mundo de principio a fin, así como los acontecimientos  que han demostrado que la Biblia sigue teniendo la razón y la tendrá hasta el fin del tiempo y por la eternidad.
+
+Ésta es la mejor historia que puede cautivar nuestras conciencias y dominar la razón humana para que el mundo viva en la plenitud de una armonía saludable y guiada por el Espíritu Santo.
+
+Me llama mucho la atención la etimología de la palabra "historia", es muy rica en su significado, y el diccionario etimológico de la lengua española la presenta como una palabra del griego ἱστορία "historía" que significa **"conocimiento adquirido por investigación o relato"**, y la relaciona, además, con el verbo griego εἴδειν "éidein" – **"ver, saber"**.  Así que, la historia de la humanidad se construye sobre la base de los principios de la observación -"ver" y el conocimiento -"saber", es decir, en la apreciación de la dimensión de los hechos históricos del mundo y del mismo universo, así como su veracidad y permanencia.
+
+Entonces podemos preguntarnos, _¿qué cosas estaba observando Dios a través de la historia lineal del tiempo, cuya dimensión y preferencia deberían estar siempre por encima de la razón humana?_ y, además, _¿qué eventos sostendría en su revelación para mantenernos cautivados y movidos a la acción de la testificación?._
+
+White (1977) declara en su libro "Mente, Carácter y Personalidad" que en la Palabra de Dios halla la mente temas de la más profunda meditación, las más sublimes aspiraciones.  Agrega, que Dios desea que las cosas de la naturaleza que captan nuestros sentidos, retengan la atención e impresionen verdades celestiales sobre la mente.
+
+En Isaías 55:8,9 Dios declara, _"Porque mis pensamientos no son los de ustedes ni sus caminos son los míos –afirma el Seños-.  Mis caminos y mis pensamientos son más altos que los de ustedes; ¡más altos que los cielos sobre la tierra!"._ Pero muchas veces hemos dejado de centrarnos en este sublime conocimiento y como dice el profeta Jeremías _"¡pero ustedes confían en palabras engañosas, que no tienen validez alguna!"_ (7:8). Recuerden que _"Dios hizo la tierra con su poder, afirmó el mundo con su sabiduría, ¡extendió los cielos con su inteligencia!"._
+
+Vivir en este conocimiento y sabiduría, es estar cautivados en lo que representa la verdad absoluta y suprema que se anhela en este siglo XXI, es estar concentrados en observar permanentemente el "Escrito está", y sobre todo siendo guiados por el poder modelador del Espíritu Santo.  Pablo lo presenta con estas palabras en su carta a los Corintios, diciendo que _"Antes bien, como está escrito: Cosas que ojo no vio, ni oído oyó, Ni han subido en corazón de hombre, Son las que Dios ha preparado para los que le aman.  Pero Dios nos las reveló a nosotros por el Espíritu; porque el Espíritu todo lo escudriña, aun lo profundo de Dios"_ (1 Cor. 2:9,10).
+
+La historia de nuestro mundo y del universo se puede ver mejor en el HD de la red celestial a través de su manual "la Biblia", conéctate cada día y observa la calidad de la imagen de los últimos acontecimientos, vive la experiencia de tener la mejor información de quien sí sabe el principio y el fin de la historia de este mundo, nuestro Señor Jesucristo, no te dejes engañar, por quienes desean fascinarte con historias sin fundamento.  Aprende a "ver" en el "Escrito está" y desarrolla el mayor conocimiento, para poder cumplir la Misión de los sueños de Dios.   Con este conocimiento y la dirección del Espíritu Santo, **_¡atrévete a cautivar las mentes necesitadas de la verdad!._**

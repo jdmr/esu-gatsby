@@ -1,0 +1,20 @@
+---
+slug: /profundiza/2011/t3/l05/tema2
+date: 2011-07-23
+tipo: dialoga
+author: Jose Mercedes Espinosa
+title: "¿En qué consiste la bienaventuranza de Israel en relación con la adoración?"
+description: "Moisés declara “Bienaventurado tú, oh Israel” (Deut. 34:29). Y esa declaración  se toma como el título de la lección de esta semana, pero sin duda muchos se  preguntarán por qué se le llama a Israel bienaventurado en relación con la  adoración. Al considerar lo que implica la ..."
+---
+
+Moisésdeclara "Bienaventuradotú, ohIsrael" (Deut. 34:29). Yesadeclaraciónsetomacomoeltítulodelaleccióndeestasemana, perosindudamuchossepreguntaránporquéselellamaaIsraelbienaventuradoenrelaciónconlaadoración.
+
+Alconsiderarloqueimplicalaverdaderaadoraciónyelimpactoquetienesobreeladorador, encontramosqueesbienaventuradonosoloIsrael, sinotodoaquelqueadoraaDiosconlaactitudcorrectayconlaplenacomprensióndeloquelaadoraciónimplica. Veamosalgunasrazonesdeestabienaventuranza.
+
+Enprimerlugarsabemosquehayunaleydelamentesegúnlacualelhombrepuedellegarasersemejantealobjetodesuadoraciónyqueeldesarrollohumanoestáenrelacióndirectaconloqueadora. Sitúadorasunobjetoinanimado, oalgunacriaturaqueteimpacte, tuvidaseráafectadaporesoqueadorasytudesarrollonoserásuperioraloqueadoras. AladoraralDioscreadorytodopoderoso, alcualMoisésdescribecomoalguienque "cabalgasobreloscielosparatuayuda, Ysobrelasnubesconsugrandeza" (Deut. 33:26), ypresentacomoeternoycomorefugio, naturalmenteconfirmamosqueesbienaventuradoquienadoraaunDiosdeesanaturaleza.
+
+Además, haybeneficiosprácticosaladoraraunDiosqueesamoryalaveztodopoderoso. EsosdosatributosdeDiosdanaladoradorplenaseguridadenmediodecualquierproblema. Enmuchoscasoscomohijoscontamosconpadresquesonpuroamorparanosotros, quenosamanentrañablemente. Perocuántasveces, aunquenosamencontodosucorazón, notienenlacapacidadderesolvernuestrosproblemasodeatenderanuestrasnecesidadesporlaslimitacioneseconómicasodeinfluenciaypoder. Sinembargo, elDiosaquienadoramosnosolonosamaconunamorsuperioralquepuedemanifestarnoselmejorpadreterrenal, sinoqueademásestodopoderoso. Noestálimitadopornada. Yesmaravillosoqueeseamoryesepoderseejerzanennuestrofavor. PoresarazónMoisésdeclaraque "Israelhabitaráconfiado" porque "eleternoDiosesturefugio" (Deut. 33:27 y 28). YesaeslabienaventuranzaparatodoaquelqueadoraaDios.
+
+Porúltimo, esimportanteaclararqueesabienaventuranzasecumplecuandolaadoraciónesverdadera. Pues, comoseñalalalección, laadoraciónnoconsisteenritualesmuertosytradicionesquehanllegadoaserunfinensímismos. LaverdaderaadoracióncambianuestrasvidasporquelasenfocaenDios. Eladoradorseolvidadelagratificaciónpropiaydetododeseodeexaltaciónpersonaly, conscientedesupropiaimpotenciayconcorazónquebrantado, derramasualmaanteDios.
+
+La adoración verdadera es una sumisión total de nuestra voluntad a Dios. Implica reconocerle y aclamarle como nuestro creador y redentor, como nuestro único refugio. Incluye dejar a sus pies nuestra vida y todo lo que ella implica. Es entonces cuando somos transformados, porque le permitimos libremente que intervenga en los aspectos más íntimos de nuestras vidas. ¡Entonces somos bienaventurados!

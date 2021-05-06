@@ -14,6 +14,14 @@ module.exports = {
     },
     plugins: [
         `gatsby-plugin-react-helmet`,
+        {
+            resolve: `gatsby-source-filesystem`,
+            options: {
+                name: `markdown-pages`,
+                path: `${__dirname}/src/md`
+            }
+        },
+        `gatsby-transformer-remark`,
         `gatsby-plugin-image`,
         {
             resolve: `gatsby-source-filesystem`,
