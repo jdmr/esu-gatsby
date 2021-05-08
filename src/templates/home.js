@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 import Layout from '../components/layout'
 import Seo from '../components/seo'
 
-const ProfundizaTemplate = ({
+const HomeTemplate = ({
     data // this prop will be injected by the GraphQL query below.
 }) => {
     const { markdownRemark } = data // data.markdownRemark holds your post data
@@ -17,19 +17,6 @@ const ProfundizaTemplate = ({
             />
             <div className="container mx-auto p-2 prose lg:prose-xl">
                 <h1>{frontmatter.title}</h1>
-                <div className="flex flex-col sm:flex-row sm:gap-2">
-                    <div>
-                        <Link
-                            to={'/perfiles/' + frontmatter.author}
-                            className="no-underline"
-                        >
-                            <span className="text-primary hover:text-primary-light">
-                                {frontmatter.author}
-                            </span>
-                        </Link>
-                    </div>
-                    <div>{frontmatter.date}</div>
-                </div>
                 <div dangerouslySetInnerHTML={{ __html: html }} />
             </div>
         </Layout>
@@ -42,7 +29,6 @@ export const pageQuery = graphql`
             html
             frontmatter {
                 date(formatString: "DD MMMM, YYYY", locale: "es")
-                author
                 title
                 description
             }
@@ -50,8 +36,8 @@ export const pageQuery = graphql`
     }
 `
 
-ProfundizaTemplate.propTypes = {
+HomeTemplate.propTypes = {
     data: PropTypes.object
 }
 
-export default ProfundizaTemplate
+export default HomeTemplate

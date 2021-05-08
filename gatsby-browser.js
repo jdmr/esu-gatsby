@@ -5,3 +5,6 @@
  */
 
 import './src/styles/global.css'
+import 'firebase/firestore'
+import 'firebase/analytics'
+import 'firebase/performance'

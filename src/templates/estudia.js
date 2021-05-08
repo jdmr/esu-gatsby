@@ -25,35 +25,41 @@ const EstudiaTemplate = ({ data }) => {
                     className="grid gap-2 items-center"
                     style={{ gridTemplateColumns: 'auto 1fr auto' }}
                 >
-                    <Link
-                        to={frontmatter.anterior}
-                        className="hover:text-blue-400 transition-colors"
-                    >
-                        <svg
-                            xmlns="http://www.w3.org/2000/svg"
-                            width="24"
-                            height="24"
-                            viewBox="0 0 24 24"
-                            className="fill-current"
+                    {frontmatter.anterior && (
+                        <Link
+                            to={frontmatter.anterior}
+                            className="hover:text-blue-400 transition-colors"
                         >
-                            <path d="M16.67 0l2.83 2.829-9.339 9.175 9.339 9.167-2.83 2.829-12.17-11.996z" />
-                        </svg>
-                    </Link>
+                            <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="24"
+                                height="24"
+                                viewBox="0 0 24 24"
+                                className="fill-current"
+                            >
+                                <path d="M16.67 0l2.83 2.829-9.339 9.175 9.339 9.167-2.83 2.829-12.17-11.996z" />
+                            </svg>
+                        </Link>
+                    )}
+                    {!frontmatter.anterior && <div></div>}
                     <div className="text-center">{frontmatter.date}</div>
-                    <Link
-                        to={frontmatter.siguiente}
-                        className="hover:text-blue-400 transition-colors"
-                    >
-                        <svg
-                            xmlns="http://www.w3.org/2000/svg"
-                            width="24"
-                            height="24"
-                            viewBox="0 0 24 24"
-                            className="fill-current"
+                    {frontmatter.siguiente && (
+                        <Link
+                            to={frontmatter.siguiente}
+                            className="hover:text-blue-400 transition-colors"
                         >
-                            <path d="M7.33 24l-2.83-2.829 9.339-9.175-9.339-9.167 2.83-2.829 12.17 11.996z" />
-                        </svg>
-                    </Link>
+                            <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="24"
+                                height="24"
+                                viewBox="0 0 24 24"
+                                className="fill-current"
+                            >
+                                <path d="M7.33 24l-2.83-2.829 9.339-9.175-9.339-9.167 2.83-2.829 12.17 11.996z" />
+                            </svg>
+                        </Link>
+                    )}
+                    {!frontmatter.siguiente && <div></div>}
                 </div>
                 <div dangerouslySetInnerHTML={{ __html: html }} />
             </div>

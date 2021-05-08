@@ -18,19 +18,17 @@ const ComparteTemplate = ({
             <div className="container mx-auto p-2 prose lg:prose-xl">
                 <h1>{frontmatter.title}</h1>
                 <div className="flex flex-col sm:flex-row sm:gap-2">
-                    {frontmatter.tipo !== 'leccion' && (
-                        <div>
-                            <Link
-                                to={'/perfiles/' + frontmatter.author}
-                                className="no-underline"
-                                style={{ textDecoration: 'none' }}
-                            >
-                                <span className="text-primary hover:text-primary-light">
-                                    {frontmatter.author}
-                                </span>
-                            </Link>
-                        </div>
-                    )}
+                    <div>
+                        <Link
+                            to={'/perfiles/' + frontmatter.author}
+                            className="no-underline"
+                            style={{ textDecoration: 'none' }}
+                        >
+                            <span className="text-primary hover:text-primary-light">
+                                {frontmatter.author}
+                            </span>
+                        </Link>
+                    </div>
                     <div>{frontmatter.date}</div>
                 </div>
                 <div dangerouslySetInnerHTML={{ __html: html }} />

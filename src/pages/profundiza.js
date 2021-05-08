@@ -4,7 +4,7 @@ import Seo from '../components/seo'
 import firebase from 'gatsby-plugin-firebase'
 import { navigate } from 'gatsby'
 
-const EstudiaPage = () => {
+const ProfundizaPage = () => {
     useEffect(async () => {
         try {
             let d = new Date()
@@ -23,14 +23,17 @@ const EstudiaPage = () => {
                 return alert('No pude encontrar el dia')
             }
             const x = doc.data()
-            navigate(`/estudia/${x.AO}/${x.TR}/${x.LC}/${x.DA}`)
+            navigate(`/profundiza/${x.AO}/${x.TR}/${x.LC}`)
         } catch (err) {
             console.error('Could not get url: ', err)
         }
     })
     return (
         <Layout>
-            <Seo title="Estudia" description="Estudia la Escuela Sabática" />
+            <Seo
+                title="Profundiza"
+                description="Profundiza en la Escuela Sabática"
+            />
             <div className="flex justify-center items-center h-full">
                 <div className="lds-ripple">
                     <div></div>
@@ -41,4 +44,4 @@ const EstudiaPage = () => {
     )
 }
 
-export default EstudiaPage
+export default ProfundizaPage
