@@ -54,3 +54,7 @@
         opacity: 0;
     }
 }
+
+.embed-responsive {
+    @apply aspect-w-16 aspect-h-9;
+}

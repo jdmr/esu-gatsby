@@ -1,28 +1,47 @@
-import * as React from 'react'
-import { Link } from 'gatsby'
-import { StaticImage } from 'gatsby-plugin-image'
-
+import React, { useEffect } from 'react'
 import Layout from '../components/layout'
 import Seo from '../components/seo'
+import firebase from 'gatsby-plugin-firebase'
+import { navigate } from 'gatsby'
 
-const IndexPage = () => (
-    <Layout>
-        <Seo title="Home" />
-        <h1>Hi people</h1>
-        <p>Welcome to your new Gatsby site.</p>
-        <p>Now go build something great.</p>
-        <StaticImage
-            src="../images/gatsby-astronaut.png"
-            width={300}
-            quality={95}
-            formats={['AUTO', 'WEBP', 'AVIF']}
-            alt="A Gatsby astronaut"
-        />
-        <p>
-            <Link to="/page-2/">Go to page 2</Link> <br />
-            <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
-        </p>
-    </Layout>
-)
+const IndexPage = () => {
+    useEffect(async () => {
+        try {
+            let d = new Date()
+            d.getDay() === 6 && d.getHours() < 12 && d.setDate(d.getDate() - 1)
+            let ds = ''
+            ds += d.getFullYear()
+            d.getMonth() + 1 < 10
+                ? (ds += '0' + (d.getMonth() + 1))
+                : (ds += d.getMonth() + 1)
+            d.getDate() < 10 ? (ds += '0' + d.getDate()) : (ds += d.getDate())
+            const doc = await firebase
+                .firestore()
+                .doc('/dias/' + ds)
+                .get()
+            if (!doc.exists) {
+                return alert('No pude encontrar el dia')
+            }
+            const x = doc.data()
+            navigate(`/inicio/${x.AO}/${x.TR}/${x.LC}/${x.DA}`)
+        } catch (err) {
+            console.error('Could not get url: ', err)
+        }
+    })
+    return (
+        <Layout>
+            <Seo
+                title="Inicio"
+                description="Bienvenido a la página de la Escuela Sabática"
+            />
+            <div className="flex justify-center items-center h-full">
+                <div className="lds-ripple">
+                    <div></div>
+                    <div></div>
+                </div>
+            </div>
+        </Layout>
+    )
+}
 
 export default IndexPage

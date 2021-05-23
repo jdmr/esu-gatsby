@@ -6,7 +6,7 @@ const Header = () => {
 
     return (
         <header id="header" className="text-gray-200 bg-primary">
-            <nav className="container mx-auto md:flex md:justify-between md:items-center px-4">
+            <nav className="container mx-auto md:flex md:justify-between md:items-center px-2">
                 <div className="py-6 flex justify-between items-center">
                     <div className="text-3xl tracking-widest">
                         <Link
@@ -48,22 +48,22 @@ const Header = () => {
                 </div>
                 <div
                     id="menu-div"
-                    className="hidden md:flex flex-col text-2xl tracking-widest md:flex-row"
+                    className="hidden md:flex flex-col text-2xl tracking-widest md:flex-row md:gap-4"
                 >
                     <Link
-                        className="p-4 transition-colors duration-300 ease-in-out hover:text-accent focus:outline-none focus:text-accent md:min-w-max"
+                        className="py-4 transition-colors duration-300 ease-in-out hover:text-accent focus:outline-none focus:text-accent md:min-w-max"
                         to="/estudia"
                     >
                         Estudia
                     </Link>
                     <Link
-                        className="p-4 transition-colors duration-300 ease-in-out hover:text-accent focus:outline-none focus:text-accent md:min-w-max"
+                        className="py-4 transition-colors duration-300 ease-in-out hover:text-accent focus:outline-none focus:text-accent md:min-w-max"
                         to="/profundiza"
                     >
                         Profundiza
                     </Link>
                     <Link
-                        className="p-4 transition-colors duration-300 ease-in-out hover:text-accent focus:outline-none focus:text-accent md:min-w-max"
+                        className="py-4 transition-colors duration-300 ease-in-out hover:text-accent focus:outline-none focus:text-accent md:min-w-max"
                         to="/comparte"
                     >
                         Comparte
