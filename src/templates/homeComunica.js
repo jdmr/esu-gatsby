@@ -14,29 +14,37 @@ const HomeComunicaTemplate = ({ data }) => {
                 title="Comparte Su Palabra"
                 description="Comparte el estudio de su Palabra"
             />
-            <div className="container mx-auto p-2">
-                <div className="grid gap-4 md:grid-cols-2">
+            <div className="container mx-auto py-8 px-2">
+                <div className="grid gap-12 md:grid-cols-2">
                     {edges.map((a) => {
                         if (count++ >= 10) {
                             return
                         }
                         return (
-                            <div
+                            <Link
                                 key={a.node.frontmatter.link}
-                                className="prose lg:prose-xl"
+                                to={a.node.frontmatter.link}
+                                style={{ textDecoration: 'none' }}
+                                className="group"
                             >
-                                <Link
-                                    to={a.node.frontmatter.link}
-                                    style={{ textDecoration: 'none' }}
-                                >
-                                    <h2>{a.node.frontmatter.title}</h2>
-                                    <div
-                                        dangerouslySetInnerHTML={{
-                                            __html: a.node.html
-                                        }}
-                                    />
-                                </Link>
-                            </div>
+                                <h2 className="text-3xl font-bold tracking-wider text-gray-700 group-hover:text-primary transition-colors">
+                                    {a.node.frontmatter.title}
+                                </h2>
+                                {a.node.frontmatter.link &&
+                                    !a.node.frontmatter.link.includes(
+                                        'estudia'
+                                    ) && (
+                                        <h3 className="mt-1 text-xl font-bold tracking-wider text-gray-500 group-hover:text-gray-700 transition-colors">
+                                            {a.node.frontmatter.author}
+                                        </h3>
+                                    )}
+                                <div
+                                    className="mt-2 text-xl tracking-wider text-gray-600 group-hover:text-gray-900 transition-colors leading-relaxed"
+                                    dangerouslySetInnerHTML={{
+                                        __html: a.node.html
+                                    }}
+                                />
+                            </Link>
                         )
                     })}
                 </div>

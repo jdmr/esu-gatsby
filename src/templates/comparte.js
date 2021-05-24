@@ -21,8 +21,10 @@ const ComparteTemplate = ({
                 <div className="flex flex-col sm:flex-row sm:gap-2">
                     <div>
                         <Link
-                            to={'/perfiles/' + frontmatter.author}
-                            className="no-underline"
+                            to={
+                                '/perfiles/' +
+                                frontmatter.author.replaceAll(' ', '+')
+                            }
                             style={{ textDecoration: 'none' }}
                         >
                             <span className="text-primary hover:text-primary-light">
@@ -56,7 +58,7 @@ const ComparteTemplate = ({
                                         style={{ textDecoration: 'none' }}
                                         className="group"
                                     >
-                                        <h2 className="text-3xl font-bold tracking-wider text-gray-700 group-hover:text-gray-900 transition-colors">
+                                        <h2 className="text-3xl font-bold tracking-wider text-gray-700 group-hover:text-primary transition-colors">
                                             {a.node.frontmatter.title}
                                         </h2>
                                         {a.node.frontmatter.link &&

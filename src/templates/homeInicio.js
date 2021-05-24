@@ -33,15 +33,15 @@ const HomeInicioTemplate = ({ data }) => {
                     </div>
                 )}
                 {leccion?.frontmatter.title && (
-                    <Link to={leccion?.frontmatter.slug} className="py-4">
-                        <h1 className="text-3xl font-bold tracking-wider">
+                    <Link to={leccion?.frontmatter.slug} className="py-4 group">
+                        <h1 className="text-4xl font-bold tracking-wider text-gray-700 group-hover:text-primary transition-colors">
                             {leccion?.frontmatter.title}
                         </h1>
-                        <p className="pt-1 pb-2 text-xl tracking-wider capitalize text-gray-800">
+                        <p className="mt-1 text-xl font-bold tracking-wider text-gray-500 group-hover:text-gray-700 transition-colors">
                             {leccion?.frontmatter.date}
                         </p>
                         <div
-                            className="tracking-wider text-xl leading-relaxed"
+                            className="mt-2 text-xl tracking-wider text-gray-600 group-hover:text-gray-900 transition-colors leading-relaxed"
                             dangerouslySetInnerHTML={{
                                 __html: leccion?.frontmatter.description
                             }}
@@ -72,7 +72,7 @@ const HomeInicioTemplate = ({ data }) => {
                                     style={{ textDecoration: 'none' }}
                                     className="group"
                                 >
-                                    <h2 className="text-3xl font-bold tracking-wider text-gray-700 group-hover:text-gray-900 transition-colors">
+                                    <h2 className="text-3xl font-bold tracking-wider text-gray-700 group-hover:text-primary transition-colors">
                                         {a.node.frontmatter.title}
                                     </h2>
                                     {a.node.frontmatter.link &&
@@ -84,7 +84,7 @@ const HomeInicioTemplate = ({ data }) => {
                                             </h3>
                                         )}
                                     <div
-                                        className="mt-2 text-xl tracking-wider text-gray-600 group-hover:text-gray-800 transition-colors leading-relaxed"
+                                        className="mt-2 text-xl tracking-wider text-gray-600 group-hover:text-gray-900 transition-colors leading-relaxed"
                                         dangerouslySetInnerHTML={{
                                             __html: a.node.html
                                         }}

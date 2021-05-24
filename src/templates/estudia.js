@@ -84,7 +84,7 @@ const EstudiaTemplate = ({ data }) => {
                                         style={{ textDecoration: 'none' }}
                                         className="group"
                                     >
-                                        <h2 className="text-3xl font-bold tracking-wider text-gray-700 group-hover:text-gray-900 transition-colors">
+                                        <h2 className="text-3xl font-bold tracking-wider text-gray-700 group-hover:text-primary transition-colors">
                                             {a.node.frontmatter.title}
                                         </h2>
                                         {a.node.frontmatter.link &&

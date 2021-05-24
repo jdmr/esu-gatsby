@@ -117,6 +117,19 @@ exports.createPages = async ({ graphql, actions }) => {
                         }
                     })
                     break
+                case 'perfil':
+                    rel = node.frontmatter.slug + '/rel'
+                    createPage({
+                        path: node.frontmatter.slug,
+                        component: path.resolve(`./src/templates/perfil.js`),
+                        context: {
+                            // Data passed to context is available
+                            // in page queries as GraphQL variables.
+                            slug: node.frontmatter.slug,
+                            rel: rel
+                        }
+                    })
+                    break
                 default:
             }
         })
