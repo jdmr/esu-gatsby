@@ -5,13 +5,11 @@ import Layout from '../components/layout'
 import Seo from '../components/seo'
 
 const HomeInicioTemplate = ({ data }) => {
-    console.log(data)
     const { allMarkdownRemark, video, versiculo, leccion } = data
     const { edges } = allMarkdownRemark
-    console.log(video)
     let count = 0
-    let videoURL = video?.rawMarkdownBody.replaceAll(`\n`, '')
-    videoURL = videoURL?.replaceAll(`\\`, '')
+    let videoURL = video?.rawMarkdownBody.replace(/\n/g, '')
+    videoURL = videoURL?.replace(/\\/g, '')
     return (
         <Layout>
             <Seo

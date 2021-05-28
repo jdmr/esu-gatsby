@@ -1,11 +1,14 @@
 import React, { useEffect } from 'react'
 import Layout from '../components/layout'
 import Seo from '../components/seo'
-import firebase from 'gatsby-plugin-firebase'
+import useFirebase from '../components/useFirebase'
+import { doc, getDoc } from 'firebase/firestore/lite'
 import { navigate } from 'gatsby'
 
 const ProfundizaPage = () => {
+    const { firebase, firestore } = useFirebase()
     useEffect(async () => {
+        if (!firebase) return
         try {
             let d = new Date()
             d.getDay() === 6 && d.getHours() < 12 && d.setDate(d.getDate() - 1)
@@ -15,14 +18,11 @@ const ProfundizaPage = () => {
                 ? (ds += '0' + (d.getMonth() + 1))
                 : (ds += d.getMonth() + 1)
             d.getDate() < 10 ? (ds += '0' + d.getDate()) : (ds += d.getDate())
-            const doc = await firebase
-                .firestore()
-                .doc('/dias/' + ds)
-                .get()
-            if (!doc.exists) {
+            const dia = await getDoc(doc(firestore, '/dias/' + ds))
+            if (!dia.exists) {
                 return alert('No pude encontrar el dia')
             }
-            const x = doc.data()
+            const x = dia.data()
             navigate(`/profundiza/${x.AO}/${x.TR}/${x.LC}`)
         } catch (err) {
             console.error('Could not get url: ', err)

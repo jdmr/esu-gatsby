@@ -5,7 +5,6 @@ import Layout from '../components/layout'
 import Seo from '../components/seo'
 
 const EstudiaTemplate = ({ data }) => {
-    console.log(data)
     const { leccion, versiculo, rel } = data
     const { frontmatter, html } = leccion
     let count = 0
@@ -74,6 +73,9 @@ const EstudiaTemplate = ({ data }) => {
                     </div>
                     <div className="grid gap-12 md:grid-cols-2">
                         {rel.edges.map((a) => {
+                            if (a.node.frontmatter.link === frontmatter.slug) {
+                                return
+                            }
                             if (count++ >= 10) {
                                 return
                             }
@@ -123,6 +125,7 @@ export const pageQuery = graphql`
                 versiculo
                 anterior
                 siguiente
+                slug
             }
         }
         versiculo: markdownRemark(frontmatter: { slug: { eq: $versiculo } }) {

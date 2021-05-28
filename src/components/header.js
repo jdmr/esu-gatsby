@@ -1,5 +1,12 @@
 import React, { useState } from 'react'
 import { Link } from 'gatsby'
+import Search from './search'
+const searchIndices = [
+    { name: `esu_perfiles`, title: `Autores` },
+    { name: `esu`, title: `Estudia` },
+    { name: `esu_dialoga`, title: `Profundiza` },
+    { name: `esu_comunica`, title: `Comparte` }
+]
 
 const Header = () => {
     const [isOpen, setOpen] = useState(false)
@@ -51,23 +58,26 @@ const Header = () => {
                     className="hidden md:flex flex-col text-2xl tracking-widest md:flex-row md:gap-4"
                 >
                     <Link
-                        className="py-4 transition-colors duration-300 ease-in-out hover:text-accent focus:outline-none focus:text-accent md:min-w-max"
+                        className="py-4 flex items-center transition-colors duration-300 ease-in-out hover:underline focus:outline-none focus:underline md:min-w-max"
                         to="/estudia"
                     >
                         Estudia
                     </Link>
                     <Link
-                        className="py-4 transition-colors duration-300 ease-in-out hover:text-accent focus:outline-none focus:text-accent md:min-w-max"
+                        className="py-4 flex items-center transition-colors duration-300 ease-in-out hover:underline focus:outline-none focus:underline md:min-w-max"
                         to="/profundiza"
                     >
                         Profundiza
                     </Link>
                     <Link
-                        className="py-4 transition-colors duration-300 ease-in-out hover:text-accent focus:outline-none focus:text-accent md:min-w-max"
+                        className="py-4 flex items-center transition-colors duration-300 ease-in-out hover:underline focus:outline-none focus:underline md:min-w-max"
                         to="/comparte"
                     >
                         Comparte
                     </Link>
+                    <div>
+                        <Search indices={searchIndices} />
+                    </div>
                 </div>
             </nav>
         </header>

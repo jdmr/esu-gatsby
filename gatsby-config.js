@@ -1,3 +1,4 @@
+require('dotenv').config()
 const fs = require('fs')
 const gracefulFs = require('graceful-fs')
 gracefulFs.gracefulify(fs)
@@ -49,20 +50,14 @@ module.exports = {
             }
         },
         {
-            resolve: 'gatsby-plugin-firebase',
+            resolve: `gatsby-plugin-algolia`,
             options: {
-                credentials: {
-                    apiKey: 'AIzaSyCCAxC8aP_ugjB5GByI1Ra5S5XC2UUh8DQ',
-                    authDomain: 'esu2020.firebaseapp.com',
-                    databaseURL: 'https://esu2020.firebaseio.com',
-                    projectId: 'esu2020',
-                    storageBucket: 'esu2020.appspot.com',
-                    messagingSenderId: '843894306921',
-                    appId: '1:843894306921:web:aceeace148027af6b8caf8',
-                    measurementId: 'G-82L0ST4PNK'
-                }
+                appId: process.env.GATSBY_ALGOLIA_APP_ID,
+                apiKey: process.env.ALGOLIA_ADMIN_KEY,
+                queries: require('./src/utils/algolia-queries')
             }
-        }
+        },
+        `gatsby-plugin-styled-components`
         // `gatsby-plugin-gatsby-cloud`
         // this (optional) plugin enables Progressive Web App + Offline functionality
         // To learn more, visit: https://gatsby.dev/offline

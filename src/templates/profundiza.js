@@ -9,30 +9,28 @@ const ProfundizaTemplate = ({
 }) => {
     const { markdownRemark, rel } = data // data.markdownRemark holds your post data
     const { frontmatter, html } = markdownRemark
+    const { title, description, author, date } = frontmatter
+    const authorEncoded = author.replace(/ /g, '+')
     let count = 0
     return (
         <Layout>
-            <Seo
-                title={frontmatter.title}
-                description={frontmatter.description}
-            />
+            <Seo title={title} description={description} />
             <div className="container mx-auto px-2 py-8 prose lg:prose-xl">
-                <h1>{frontmatter.title}</h1>
+                <h1>{title}</h1>
                 <div className="flex flex-col sm:flex-row sm:gap-2">
-                    <div>
-                        <Link
-                            to={
-                                '/perfiles/' +
-                                frontmatter.author.replaceAll(' ', '+')
-                            }
-                            style={{ textDecoration: 'none' }}
-                        >
-                            <span className="text-primary hover:text-primary-light">
-                                {frontmatter.author}
-                            </span>
-                        </Link>
-                    </div>
-                    <div>{frontmatter.date}</div>
+                    {authorEncoded && (
+                        <div>
+                            <Link
+                                to={'/perfiles/' + authorEncoded}
+                                style={{ textDecoration: 'none' }}
+                            >
+                                <span className="text-primary hover:text-primary-light">
+                                    {author}
+                                </span>
+                            </Link>
+                        </div>
+                    )}
+                    <div>{date}</div>
                 </div>
                 <div dangerouslySetInnerHTML={{ __html: html }} />
             </div>
