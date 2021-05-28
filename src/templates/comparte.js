@@ -16,7 +16,7 @@ const ComparteTemplate = ({
                 title={frontmatter.title}
                 description={frontmatter.description}
             />
-            <div className="container mx-auto p-2 prose lg:prose-xl">
+            <div className="container mx-auto px-2 py-8 prose lg:prose-xl">
                 <h1>{frontmatter.title}</h1>
                 <div className="flex flex-col sm:flex-row sm:gap-2">
                     {frontmatter.author && (

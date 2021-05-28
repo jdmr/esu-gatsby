@@ -16,7 +16,7 @@ const HomeInicioTemplate = ({ data }) => {
                 title={'Inicio: ' + leccion?.frontmatter.title}
                 description={leccion?.frontmatter.description}
             />
-            <div className="container mx-auto p-2 grid gap-4">
+            <div className="container mx-auto px-2 py-8 grid gap-4">
                 {video?.rawMarkdownBody && (
                     <div className="embed-responsive">
                         <iframe
