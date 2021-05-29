@@ -9,7 +9,7 @@ module.exports = {
         DEV_SSR: false,
         PRESERVE_WEBPACK_CACHE: true,
         PRESERVE_FILE_DOWNLOAD_CACHE: true,
-        PARALLEL_SOURCING: false,
+        PARALLEL_SOURCING: true,
         FUNCTIONS: false
     },
     siteMetadata: {
@@ -57,10 +57,10 @@ module.exports = {
                 queries: require('./src/utils/algolia-queries')
             }
         },
-        `gatsby-plugin-styled-components`
+        `gatsby-plugin-styled-components`,
         // `gatsby-plugin-gatsby-cloud`
         // this (optional) plugin enables Progressive Web App + Offline functionality
         // To learn more, visit: https://gatsby.dev/offline
-        // `gatsby-plugin-offline`,
+        `gatsby-plugin-offline`
     ]
 }
