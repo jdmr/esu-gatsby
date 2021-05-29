@@ -19,9 +19,16 @@ export default function getFirebase() {
     if (typeof window !== 'undefined') {
         if (instance) return { firebase: instance, firestore: db }
         instance = initializeApp(config)
-        db = initializeFirestore(instance)
-        return { firebase: instance, firestore: db }
+        if (instance) {
+            db = initializeFirestore(instance)
+            import('firebase/analytics').then(({ getAnalytics }) => {
+                getAnalytics(instance)
+            })
+            import('firebase/performance').then(({ getPerformance }) => {
+                getPerformance(instance)
+            })
+        }
     }
 
-    return null
+    return { firebase: instance, firestore: db }
 }
