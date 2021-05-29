@@ -3,6 +3,7 @@ import { graphql, Link } from 'gatsby'
 import PropTypes from 'prop-types'
 import Layout from '../components/layout'
 import Seo from '../components/seo'
+import RefTagger from '../components/refTagger'
 
 const EstudiaTemplate = ({ data }) => {
     const { leccion, versiculo, rel } = data
@@ -14,9 +15,10 @@ const EstudiaTemplate = ({ data }) => {
                 title={frontmatter.title}
                 description={frontmatter.description}
             />
+            <RefTagger bibleVersion={'NVI'} tagChapters={true} />
             <div className="bg-dark">
                 <div
-                    className="container mx-auto py-8 px-2 prose lg:prose-xl text-gray-100 text-xl tracking-wider leading-relaxed"
+                    className="versiculo container mx-auto py-8 px-2 prose lg:prose-xl text-gray-100 text-xl tracking-wider leading-relaxed"
                     dangerouslySetInnerHTML={{ __html: versiculo.html }}
                 />
             </div>

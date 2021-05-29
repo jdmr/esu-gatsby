@@ -3,6 +3,7 @@ import { graphql, Link } from 'gatsby'
 import PropTypes from 'prop-types'
 import Layout from '../components/layout'
 import Seo from '../components/seo'
+import RefTagger from '../components/refTagger'
 
 const ProfundizaTemplate = ({
     data // this prop will be injected by the GraphQL query below.
@@ -15,6 +16,7 @@ const ProfundizaTemplate = ({
     return (
         <Layout>
             <Seo title={title} description={description} />
+            <RefTagger bibleVersion={'NVI'} tagChapters={true} />
             <div className="container mx-auto px-2 py-8 prose lg:prose-xl">
                 <h1>{title}</h1>
                 <div className="flex flex-col sm:flex-row sm:gap-2">
