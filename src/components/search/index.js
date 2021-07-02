@@ -1,5 +1,5 @@
 import algoliasearch from 'algoliasearch/lite'
-import { createRef, default as React, useState, useMemo } from 'react'
+import { createRef, default as React, useState } from 'react'
 import { InstantSearch } from 'react-instantsearch-dom'
 import { ThemeProvider } from 'styled-components'
 import StyledSearchBox from './styled-search-box'
@@ -18,14 +18,30 @@ export default function Search({ indices }) {
     const rootRef = createRef()
     const [query, setQuery] = useState()
     const [hasFocus, setFocus] = useState(false)
-    const searchClient = useMemo(
-        () =>
-            algoliasearch(
-                process.env.GATSBY_ALGOLIA_APP_ID,
-                process.env.GATSBY_ALGOLIA_SEARCH_KEY
-            ),
-        []
+
+    const algoliaClient = algoliasearch(
+        process.env.GATSBY_ALGOLIA_APP_ID,
+        process.env.GATSBY_ALGOLIA_SEARCH_KEY
     )
+
+    const searchClient = {
+        search(requests) {
+            const query = requests[0].params?.query?.trim()
+            if (query === '') {
+                return []
+            }
+            return algoliaClient.search(requests)
+        }
+    }
+
+    // const searchClient = useMemo(
+    //     () =>
+    //         algoliasearch(
+    //             process.env.GATSBY_ALGOLIA_APP_ID,
+    //             process.env.GATSBY_ALGOLIA_SEARCH_KEY
+    //         ),
+    //     []
+    // )
 
     useClickOutside(rootRef, () => setFocus(false))
 
