@@ -7,10 +7,9 @@ module.exports = {
     flags: {
         FAST_DEV: true,
         DEV_SSR: false,
-        PRESERVE_WEBPACK_CACHE: true,
         PRESERVE_FILE_DOWNLOAD_CACHE: true,
-        PARALLEL_SOURCING: true,
-        FUNCTIONS: false
+        PARALLEL_SOURCING: false,
+        DETECT_NODE_MUTATIONS: false
     },
     siteMetadata: {
         title: `ESU`,
